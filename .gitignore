@@ -2,3 +2,4 @@ venv/
 youtube_elt.zip
 __pycache__/
 .env
+logs/*
